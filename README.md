@@ -1,0 +1,2 @@
+# oso
+OpenShift Getting Started
